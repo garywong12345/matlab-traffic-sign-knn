@@ -1,0 +1,25 @@
+# MATLAB autosave files
+*.asv
+*~
+
+# Simulink cache and autosaves
+slprj/
+*.slxc
+*.slx.autosave
+*.slx.original
+
+# Compiled MEX binaries (OS-specific)
+*.mex
+*.mexa64
+*.mexmac
+*.mexmaci64
+*.mexw32
+*.mexw64
+
+# MATLAB App Designer
+*.mlappinstall
+
+# Optional: Large data files (Uncomment the lines below to use them)
+# *.mat
+# *.csv
+# *.dat
