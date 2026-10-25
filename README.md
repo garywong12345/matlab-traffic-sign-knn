@@ -3,6 +3,9 @@
 ## Overview
 A MATLAB-based K-Nearest Neighbors (KNN) classification model designed to identify and categorize traffic signs (Stop, Crosswalk, Speed Limit). This project focuses on custom image processing and physical feature extraction to train a lightweight machine learning classifier.
 
+<img width="917" height="543" alt="KNN_Result_Table" src="https://github.com/user-attachments/assets/f95a406a-1617-4988-9286-320e93c984c0" />
+
+
 **Dependencies:** 
 * MATLAB
 * Statistics and Machine Learning Toolbox (for KNN model training)
